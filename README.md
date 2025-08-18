@@ -1,5 +1,3 @@
-# readme.md
-
  💼 Perfil Profissional:
 
 - 💻 Estou aprendendo a integração de Tailwind e Node no front-end
